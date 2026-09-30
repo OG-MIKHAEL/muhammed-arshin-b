@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Muhammed Arshin B
 
-<!--
-**muhammed-arshin-b/muhammed-arshin-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Student at Offenso | Interested in Cybersecurity
 
-Here are some ideas to get you started:
+I'm from Malappuram, Kerala. I'm learning about cybersecurity and enjoy gaming and traveling in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Student at Offenso
+- Interested in cybersecurity
+- Based in Malappuram
+- I enjoy gaming and traveling
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-arshin-a995233ab)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OG-MIKHAEL)
